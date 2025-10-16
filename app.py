@@ -55,7 +55,7 @@ def process_excel_and_create_reports(df_crm, df_adjust):
 
 st.title("📄 Excel Publisher Report Generator")
 st.markdown("---")
-st.info("Upload your Excel file (e.g., `Reports Maybank till 6th October 2025.xlsx`) to generate separate reports for each Publisher.")
+st.info("Upload your Excel file to generate separate reports for each Publisher.")
 
 # File Uploader Widget
 uploaded_file = st.file_uploader(
