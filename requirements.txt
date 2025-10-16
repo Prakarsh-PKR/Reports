@@ -1,1 +1,4 @@
-
+streamlit
+pandas
+openpyxl  # Required for reading Excel files
+xlsxwriter # Required for writing Excel files
