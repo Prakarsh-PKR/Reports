@@ -95,7 +95,7 @@ def process_excel_and_create_reports(uploaded_file, original_filename):
 
 # --- Streamlit Application Layout ---
 
-st.title("📄 Publisher Report Generator")
+st.title("📄 Rapid Report Builder [Beta]")
 st.markdown("---")
 st.info("""
 **Instructions:** Upload your Excel file. The script will look for the **'Publisher'** column 
